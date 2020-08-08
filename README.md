@@ -1,5 +1,9 @@
 <p align="center">
-   a 
+   <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/diego-machado/nlw2-proffy" />
+
+  <img alt="Language top" title="Language top"  src="https://img.shields.io/github/languages/top/diego-machado/nlw2-proffy" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
 </p>
 
 ## Sobre o projeto
@@ -83,5 +87,3 @@ O projeto está sobre a licença [MIT](./LICENSE) ❤️
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-machado-da-rosa-88309024/)](https://www.linkedin.com/in/diego-machado-da-rosa-88309024/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.machadodarosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.machadodarosa@gmail.com)](mailto:diego.machadodarosa@gmail.com)
-
-
