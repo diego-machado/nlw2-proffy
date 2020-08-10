@@ -36,6 +36,7 @@ function TeacherList() {
           <Select
             name="subject"
             label="Matéria"
+            value={subject}
             onChange={e => setSubject(e.target.value)}
             options={[
               { value: 'Artes', label: 'Artes'},
@@ -54,6 +55,7 @@ function TeacherList() {
             name="week_day"
             label="Dia da semana"
             onChange={e => setWeekDay(e.target.value)}
+            value={week_day}
             options={[
               { value: '0', label: 'Domingo'},
               { value: '1', label: 'Segunda-feira'},
@@ -68,6 +70,7 @@ function TeacherList() {
             type="time"
             name="time"
             label="Hora"
+            value={time}
             onChange={e => setTime(e.target.value)}
           />
 
